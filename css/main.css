@@ -1,1 +1,31 @@
-heyo
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #f7dddd;
+}
+img{
+	width: 100%;
+	height: auto;
+}
+h1{
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+	color: black;
+}
+h2{
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+	color: black;
+}
+h6{
+	font-family: 'Sacramento', cursive bold;
+	text-align: center;
+	color: black;
+}
+p{
+	font-family: 'Sacramento', cursive;
+	text-align: center;
+	color: black;
+	font-size: 16px;
+}
